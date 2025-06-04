@@ -40,10 +40,10 @@ Double-click the file
 
 Or right-click → "Open with" → Your browser
 
-🎯 Learning Purpose
+## 🎯 Learning Purpose
 This project was created to practice DOM manipulation and game logic using basic JavaScript. It's a great starting point for beginners interested in web development and interactive UI.
 
-🙋‍♂️ Connect with Me
+## 🙋‍♂️ Connect with Me
 https://www.linkedin.com/in/jaithun-shifaya03
 
 https://github.com/jaithunshifaya
