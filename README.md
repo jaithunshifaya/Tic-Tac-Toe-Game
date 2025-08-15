@@ -36,9 +36,9 @@ This is a simple web-based Tic-Tac-Toe game built using **HTML, CSS, and JavaScr
 
 3. Open index.html in your browser:
 
-Double-click the file
+  Double-click the file
 
-Or right-click → "Open with" → Your browser
+  Or right-click → "Open with" → Your browser
 
 ## 🎯 Learning Purpose
 This project was created to practice DOM manipulation and game logic using basic JavaScript. It's a great starting point for beginners interested in web development and interactive UI.
