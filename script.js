@@ -47,3 +47,4 @@ function resetGame() {
 
 cells.forEach(cell => cell.addEventListener("click", handleClick));
 statusDisplay.textContent = "X's turn";
+
